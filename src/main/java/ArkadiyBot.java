@@ -28,11 +28,11 @@ public class ArkadiyBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "Arkadiy_flower_bot";
+        return "bot_name";
     }
 
     @Override
     public String getBotToken() {
-        return "1029762022:AAHZ2nti8ofFYOUTKhThPYhjTuxHuDYCdlw";
+        return "code here";
     }
 }
